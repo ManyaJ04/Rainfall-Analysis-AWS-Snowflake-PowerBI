@@ -69,10 +69,10 @@ Below are key visual insights captured from the Power BI report:
 
 | Screenshot | Description |
 |------------|-------------|
-| ![Screenshot 1](images/screenshot1.jpg) | Rainfall trends across different regions over multiple years. |
-| ![Screenshot 2](images/screenshot2.jpg) | Crop yield comparison based on rainfall levels. |
-| ![Screenshot 3](images/screenshot3.jpg) | Seasonal analysis of rainfall vs crop production. |
-| ![Screenshot 4](images/screenshot4.jpg) | Interactive dashboard showcasing filters and slicers for deeper insights. |
+| ![Screenshot 1](images/screenshot1.jpg) | Rainfall Analysis: Average rainfall by year, season, crop, and location across India. |
+| ![Screenshot 2](images/screenshot2.jpg) | Temperature Analysis: Average temperature trends by year, season, crop, and location. |
+| ![Screenshot 3](images/screenshot3.jpg) | Humidity Analysis: Average humidity by year, season, crop, and location. |
+| ![Screenshot 4](images/screenshot4.jpg) | Yield Analysis: Average crop yield by year, season, crop, and location with interactive filters. |
 
 > **Note:** Replace `images/screenshotX.png` with the actual filenames of your saved screenshots.
 
