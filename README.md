@@ -1,4 +1,4 @@
-# Agriculture and Rainfall Analysis in India 🌾☔ - aws-s3-snowflake-powerbi-Project
+# Agriculture and Rainfall Analysis in India 🌾☔ - (AWS+Snowflake+PowerBI)
 
 
 ### 🎯 Project Overview
